@@ -13,7 +13,7 @@ docker build -t rawmind/rancher-go-dnsmasq:<version> .
 
 ## Versions
 
-- `1.0.6` [(Dockerfile)](https://github.com/rawmind0/rancher-go-dnsmasq/blob/1.0.6/README.md)
+- `1.0.6-1` [(Dockerfile)](https://github.com/rawmind0/rancher-go-dnsmasq/blob/1.0.6-1/README.md)
 
 
 ## Usage
